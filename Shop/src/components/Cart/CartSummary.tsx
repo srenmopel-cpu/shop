@@ -136,7 +136,7 @@ const CartSummary = ({
         </div>
         <p className="text-xs text-muted-foreground text-center mt-3 flex items-center justify-center gap-1">
           <ShieldCheck className="h-3.5 w-3.5" />
-          Secure checkout with SSL encryption
+          Secure checkout with SSL encryptions
         </p>
       </div>
     </div>
